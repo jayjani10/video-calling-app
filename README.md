@@ -1,6 +1,6 @@
 # video-calling-app
  
-> Built in JavaScript and Node.js
+> Built with JavaScript and Node.js
 
 > Libraries used:
     • express
